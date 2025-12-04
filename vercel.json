@@ -1,6 +1,3 @@
 {
-  "buildCommand": "npm run build",
-  "env": {
-    "NEXT_PUBLIC_API_URL": "https://customservicerobot-production.up.railway.app"
-  }
+  "version": 2
 }
